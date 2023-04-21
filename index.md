@@ -14,7 +14,7 @@ excerpt: ""
 
 ## Особливості
 
-- Доступно як **theme gem** і тема **GitHub Pages** 
+- Доступно як тема **GitHub Pages** 
 - Чіткий і елегантний дизайн, який можна використовувати з коробки або як надійну відправну точку
 - Перевірено у всіх основних браузерах, в т.ч **IE and Edge**
 - Вбудований **Service Worker** тому він може працювати в автономному режимі та на повільних з’єднаннях
@@ -27,20 +27,19 @@ excerpt: ""
 - Built in live search using JavaScript
 - **Contact form** built in using [Formspree](https://formspree.io/)
 - Designed with **[Siteleaf](https://www.siteleaf.com/)** in mind
-- Has 9 of the most popular networks as performant sharing buttons
-- Has documentation
+- Має 9 найпопулярніших мереж як ефективні кнопки обміну
+- Має документацію
+## Приклади
 
-## Examples
-
-Here are a few examples of Alembic out in the wild being used in a variety of ways:
+Декілька сайтів на темі Alembic:
 
 - [bawejakunal.github.io](https://bawejakunal.github.io/)
 - [case2111.github.io](https://case2111.github.io/)
 - [karateca.org](https://www.karateca.org/)
 
-## Installation
+## Встановлення
 
-### Quick setup
+### Швидке налаштування
 
 To give you a running start I've put together some starter kits that you can download, fork or even deploy immediately:
 
@@ -85,9 +84,9 @@ _(deprecated, not recommended)_
 5. Run `bundle exec jekyll serve` to build and serve your site
 6. Done! Use the [configuration](#configuration) documentation and the example [`_config.yml`](https://github.com/daviddarnes/alembic/blob/master/_config.yml) file to set things like the navigation, contact form and social sharing buttons
 
-## Customising
+## Налаштування
 
-When using Alembic as a theme means you can take advantage of the file overriding method. This allows you to overwrite any file in this theme with your own custom file, by matching the file name and path. The most common example of this would be if you want to add your own styles or change the core style settings.
+Якщо використовуєте Alembic як тему, можете її перезаписати. Це дає змогу замінити будь-який файл у цій темі власним файлом, зіставивши ім’я та шлях файлу. Найпоширенішим прикладом цього може бути, якщо ви хочете додати власні стилі або змінити налаштування основного стилю.
 
 To add your own styles copy the [`styles.scss`](https://github.com/daviddarnes/alembic/blob/master/assets/styles.scss) into your own project with the same file path (`assets/styles.scss`). From there you can add your own styles, you can even optionally ignore the theme styles by removing the `@import "alembic";` line.
 
