@@ -2,7 +2,7 @@
 title: Про тему
 feature_text: |
  # Магистр Вован
-feature_image: ""https://picsum.photos/2560/600?image=866""
+feature_image: "https://picsum.photos/2560/600?image=866"
 excerpt: "Hueta"
 ---
 
