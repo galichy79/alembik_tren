@@ -9,7 +9,6 @@ excerpt: "Hueta"
 Привет, Dj. 
 
 
-{% include button.html text="Fork it" icon="github" link="#" color="#0366d6" %} {% include button.html text="Buy me a coffee ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} {% include button.html text="Tweet it" icon="twitter" link="#" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %}
 
 ## Особливості
 
