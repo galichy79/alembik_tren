@@ -73,7 +73,7 @@ To give you a running start I've put together some starter kits that you can dow
 5. Run `bundle exec jekyll serve` to build and serve your site
 6. Done! Use the [configuration](#configuration) documentation and the example [`_config.yml`](https://github.com/daviddarnes/alembic/blob/master/_config.yml) file to set things like the navigation, contact form and social sharing buttons
 
-### As a Boilerplate / Fork
+### Як шаблон / Fork
 
 _(deprecated, not recommended)_
 
