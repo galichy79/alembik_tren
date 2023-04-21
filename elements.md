@@ -11,11 +11,11 @@ aside: true
 
 ###### Heading 6
 
-<small>A small element</small>
+<small>Маленький текст</small>
 
 [Посилання](https://david.darn.es "A link")
 
-Так це виглядає * жирний текст * ось так.
+Так це виглядає * що тут? * ось так.
 
 Посилання у тексті [Посилання](https://david.darn.es "A link") reprehenderit in voluptate velit esse cillum **Жирний текс** dolore eu fugiat nulla pariatur. Excepteur span element sint occaecat cupidatat non proident, sunt _італік шрифт_ in culpa qui officia deserunt mollit anim id `код` ось так.
 
