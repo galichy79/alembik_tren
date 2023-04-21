@@ -13,11 +13,11 @@ aside: true
 
 <small>A small element</small>
 
-[A link](https://david.darn.es "A link")
+[Посилання](https://david.darn.es "A link")
 
-Lorem ipsum dolor sit amet, consectetur adip* isicing elit, sed do eiusmod *tempor incididunt ut labore et dolore magna aliqua.
+Так це виглядає * жирний текст * ось так.
 
-Duis aute irure dolor in [A link](https://david.darn.es "A link") reprehenderit in voluptate velit esse cillum **bold text** dolore eu fugiat nulla pariatur. Excepteur span element sint occaecat cupidatat non proident, sunt _italicised text_ in culpa qui officia deserunt mollit anim id `some code` est laborum.
+Посилання у тексті [Посилання](https://david.darn.es "A link") reprehenderit in voluptate velit esse cillum **Жирний текс** dolore eu fugiat nulla pariatur. Excepteur span element sint occaecat cupidatat non proident, sunt _італік шрифт_ in culpa qui officia deserunt mollit anim id `код` ось так.
 
 * An item
 * An item
@@ -31,9 +31,9 @@ Duis aute irure dolor in [A link](https://david.darn.es "A link") reprehenderit 
 4. Item four
 5. Item five
 
-> A simple blockquote
+> Проста цитата
 
-Some HTML...
+ HTML...
 
 ``` html
 <blockquote cite="http://www.imdb.com/title/tt0284978/quotes/qt1375101">
@@ -56,7 +56,7 @@ blockquote footer {
 }
 ```
 
-...and JavaScript
+...і JavaScript
 
 ``` js
 const blockquote = document.querySelector("blockquote")
