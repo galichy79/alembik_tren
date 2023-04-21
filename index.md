@@ -1,7 +1,8 @@
 ---
 title: About Alembic
-feature_text: |
-  ## Вован
+feature_text: 
+  ## Магистр Черной и Белой Магии Вован
+  Повелеваю всем быть приличными людьми
  feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: ""
 ---
