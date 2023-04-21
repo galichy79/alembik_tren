@@ -3,7 +3,7 @@ title: Про тему
 feature_text: |
   ## Магистр Черной и Белой Магии Вован
   Повелеваю всем быть приличными людьми
- feature_image: "https://photos.google.com/photo/AF1QipNqnyGNkYfDzq0nVhnF1oMONJ3sZW5M_mlTb9ur"
+ feature_image: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fua.depositphotos.com%2Fstock-photos%2F%25D0%25B3%25D0%25B0%25D1%2580%25D0%25BD%25D0%25B0-%25D0%25B4%25D1%2596%25D0%25B2%25D1%2587%25D0%25B8%25D0%25BD%25D0%25B0.html&psig=AOvVaw05HgNf0zyYb03S8Q3d9PCq&ust=1682164648320000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLjjyOT1uv4CFQAAAAAdAAAAABAJ"
 excerpt: "111"
 ---
 
