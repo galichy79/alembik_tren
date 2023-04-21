@@ -1,9 +1,5 @@
 # [Alembic](https://alembic.darn.es/)
 
-![Screenshot](https://raw.githubusercontent.com/daviddarnes/alembic/master/screenshot.png)
-
-
-
 ## Contents
 - [About](#about)
 - [Features](#features)
