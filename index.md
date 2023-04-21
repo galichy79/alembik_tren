@@ -2,23 +2,22 @@
 title: About Alembic
 feature_text: |
   ## Вован
- ПОВЕЛЕВАЮ всем быть приличными людьми.
-feature_image: "https://picsum.photos/1300/400?image=989"
+ feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: ""
 ---
 
 Привет, Dj. ПОВЕЛЕВАЮ всем быть приличными людьми.
 
 
-{% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Buy me a coffee ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %}
+{% include button.html text="Fork it" icon="github" link="#" color="#0366d6" %} {% include button.html text="Buy me a coffee ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} {% include button.html text="Tweet it" icon="twitter" link="#" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %}
 
-## Features
+## Особливості
 
-- Available as a **theme gem** and **GitHub Pages** theme
-- Clear and elegant design that can be used out of the box or as solid starting point
-- Tested in all major browsers, including **IE and Edge**
-- Built in **Service Worker** so it can work offline and on slow connections
-- **Configurable colours** and typography in a single settings file
+- Доступно як **theme gem** і тема **GitHub Pages** 
+- Чіткий і елегантний дизайн, який можна використовувати з коробки або як надійну відправну точку
+- Перевірено у всіх основних браузерах, в т.ч **IE and Edge**
+- Вбудований **Service Worker** тому він може працювати в автономному режимі та на повільних з’єднаннях
+- **Configurable colours** і типографіку в одному файлі налаштувань
 - Extensive set of **shortcodes** to include various elements; such as buttons, icons, figure images and more
 - Solid **typographic framework** from [Sassline](https://sassline.com/)
 - Configurable navigation via a single file
