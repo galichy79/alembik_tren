@@ -3,11 +3,11 @@ title: Про тему
 feature_text: |
   ## Магистр Черной и Белой Магии Вован
   Повелеваю всем быть приличными людьми
- feature_image: "https://picsum.photos/1300/400?image=989"
+ feature_image: "https://photos.google.com/photo/AF1QipNqnyGNkYfDzq0nVhnF1oMONJ3sZW5M_mlTb9ur"
 excerpt: "111"
 ---
 
-Привет, Dj. ПОВЕЛЕВАЮ всем быть приличными людьми.
+Привет, Dj. 
 
 
 {% include button.html text="Fork it" icon="github" link="#" color="#0366d6" %} {% include button.html text="Buy me a coffee ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} {% include button.html text="Tweet it" icon="twitter" link="#" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %}
