@@ -1,7 +1,7 @@
 ---
-title: Elements
+title: Елементи
 feature_text: |
-  A demo of Markdown and HTML includes
+  Демонстрація Markdown та HTML елементів
 feature_image: "https://picsum.photos/2560/600?image=873"
 excerpt: "A demo of Markdown and HTML includes"
 aside: true
@@ -96,9 +96,9 @@ blockquote.innerHTML = bolden("Mr. Sullivan", blockquote.innerHTML)
 
 ### Button include
 
-{% include button.html text="A button" link="https://david.darn.es" %}
+{% include button.html text="Конпка" link="https://adagio-hostel-online" %}
 
-{% include button.html text="A button with icon" link="https://twitter.com/daviddarnes" icon="twitter" %}
+{% include button.html text="A button with icon" link="https://twitter.com/#" icon="twitter" %}
 
 ``` html
 {% raw %}{% include button.html text="A button" link="https://david.darn.es" %}
