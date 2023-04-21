@@ -2,7 +2,7 @@
 title: Елементи
 feature_text: |
   Демонстрація Markdown та HTML елементів
-feature_image: "https://picsum.photos/2560/600?image=873"
+feature_image: "https://photos.google.com/photo/AF1QipNqnyGNkYfDzq0nVhnF1oMONJ3sZW5M_mlTb9ur"
 excerpt: "A demo of Markdown and HTML includes"
 aside: true
 ---
